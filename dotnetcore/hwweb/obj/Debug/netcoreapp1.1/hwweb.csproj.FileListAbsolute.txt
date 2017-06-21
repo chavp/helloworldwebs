@@ -14,3 +14,11 @@ D:\my-code\hwwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.pdb
 D:\my-code\hwwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.AssemblyInfo.cs
 D:\my-code\hwwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.dll
 D:\my-code\hwwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.pdb
+D:\my-code\helloworldwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.deps.json
+D:\my-code\helloworldwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.runtimeconfig.json
+D:\my-code\helloworldwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.runtimeconfig.dev.json
+D:\my-code\helloworldwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.dll
+D:\my-code\helloworldwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.pdb
+D:\my-code\helloworldwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.AssemblyInfo.cs
+D:\my-code\helloworldwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.dll
+D:\my-code\helloworldwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.pdb

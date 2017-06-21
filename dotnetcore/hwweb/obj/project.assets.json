@@ -8590,16 +8590,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\my-code\\hwwebs\\dotnetcore\\hwweb\\hwweb.csproj",
+      "projectUniqueName": "D:\\my-code\\helloworldwebs\\dotnetcore\\hwweb\\hwweb.csproj",
       "projectName": "hwweb",
-      "projectPath": "D:\\my-code\\hwwebs\\dotnetcore\\hwweb\\hwweb.csproj",
-      "outputPath": "D:\\my-code\\hwwebs\\dotnetcore\\hwweb\\obj\\",
+      "projectPath": "D:\\my-code\\helloworldwebs\\dotnetcore\\hwweb\\hwweb.csproj",
+      "outputPath": "D:\\my-code\\helloworldwebs\\dotnetcore\\hwweb\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/hwweb.dll": "D:\\my-code\\hwwebs\\dotnetcore\\hwweb\\bin\\placeholder\\netcoreapp1.1\\hwweb.dll"
+        "lib/netcoreapp1.1/hwweb.dll": "D:\\my-code\\helloworldwebs\\dotnetcore\\hwweb\\bin\\placeholder\\netcoreapp1.1\\hwweb.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
