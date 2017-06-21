@@ -1,0 +1,16 @@
+D:\software\the-echo\dotnet-core\hwweb\bin\Debug\netcoreapp1.1\hwweb.deps.json
+D:\software\the-echo\dotnet-core\hwweb\bin\Debug\netcoreapp1.1\hwweb.runtimeconfig.json
+D:\software\the-echo\dotnet-core\hwweb\bin\Debug\netcoreapp1.1\hwweb.runtimeconfig.dev.json
+D:\software\the-echo\dotnet-core\hwweb\bin\Debug\netcoreapp1.1\hwweb.dll
+D:\software\the-echo\dotnet-core\hwweb\bin\Debug\netcoreapp1.1\hwweb.pdb
+D:\software\the-echo\dotnet-core\hwweb\obj\Debug\netcoreapp1.1\hwweb.AssemblyInfo.cs
+D:\software\the-echo\dotnet-core\hwweb\obj\Debug\netcoreapp1.1\hwweb.dll
+D:\software\the-echo\dotnet-core\hwweb\obj\Debug\netcoreapp1.1\hwweb.pdb
+D:\my-code\hwwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.deps.json
+D:\my-code\hwwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.runtimeconfig.json
+D:\my-code\hwwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.runtimeconfig.dev.json
+D:\my-code\hwwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.dll
+D:\my-code\hwwebs\dotnetcore\hwweb\bin\Debug\netcoreapp1.1\hwweb.pdb
+D:\my-code\hwwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.AssemblyInfo.cs
+D:\my-code\hwwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.dll
+D:\my-code\hwwebs\dotnetcore\hwweb\obj\Debug\netcoreapp1.1\hwweb.pdb
